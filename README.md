@@ -28,12 +28,6 @@ Este proyecto es una utilidad simple para convertir números romanos en números
 Convierte números romanos en números intergalácticos.
 Valida si un número es un número romano válido.
 
-3. dentro del directorio del proyecto para compilar y ejecutar el proyecto:
-
-   ```bash 
-   String romanNumber = "XXIV";
-   String intergalacticNumber = MerchantGuideToGalaxy.romanToIntergalactic(romanNumber);
-   System.out.println("Número romano: " + romanNumber + ", Número intergaláctico: " + intergalacticNumber);
-
+   
 ## Licencia
 Este proyecto está bajo la licencia Apache 2.0
