@@ -19,7 +19,7 @@ Este proyecto es una utilidad simple para convertir números romanos en números
 3. Ejecuta el siguiente comando en la terminal dentro del directorio del proyecto para compilar y ejecutar el proyecto:
 
    ```bash
-   mvn clean compile exec:java -Dexec.mainClass=org.galaxy.MerchantGuideToGalaxy 
+   mvn clean compile  
 
 4. Proporciona un número romano como entrada cuando se solicite.
 
